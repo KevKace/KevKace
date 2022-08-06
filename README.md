@@ -5,3 +5,5 @@
 ![GitHub metrics](https://metrics.lecoq.io/KevKace)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KevKace)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevKace)](https://github.com/anuraghazra/github-readme-stats)
