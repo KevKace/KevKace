@@ -3,3 +3,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevKace&show_icons=true&theme=synthwave)
 
 ![GitHub metrics](https://metrics.lecoq.io/KevKace)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KevKace)  
