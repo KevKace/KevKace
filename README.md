@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Leon.</h1>
-<h3 align="center">Student and hobby-developer</h3>
+<h3 align="center">Hobby-developer</h3>
 
 <p align="center">
     『 he/him 』
